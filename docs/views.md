@@ -1,0 +1,39 @@
+# Blade Views
+
+| View | Location |
+|------|----------|
+| auth/confirm-password | resources/views/auth/confirm-password.blade.php |
+| auth/forgot-password | resources/views/auth/forgot-password.blade.php |
+| auth/login | resources/views/auth/login.blade.php |
+| auth/register | resources/views/auth/register.blade.php |
+| auth/reset-password | resources/views/auth/reset-password.blade.php |
+| auth/verify-email | resources/views/auth/verify-email.blade.php |
+| components/application-logo | resources/views/components/application-logo.blade.php |
+| components/auth-session-status | resources/views/components/auth-session-status.blade.php |
+| components/danger-button | resources/views/components/danger-button.blade.php |
+| components/dropdown-link | resources/views/components/dropdown-link.blade.php |
+| components/dropdown | resources/views/components/dropdown.blade.php |
+| components/input-error | resources/views/components/input-error.blade.php |
+| components/input-label | resources/views/components/input-label.blade.php |
+| components/modal | resources/views/components/modal.blade.php |
+| components/nav-link | resources/views/components/nav-link.blade.php |
+| components/primary-button | resources/views/components/primary-button.blade.php |
+| components/responsive-nav-link | resources/views/components/responsive-nav-link.blade.php |
+| components/secondary-button | resources/views/components/secondary-button.blade.php |
+| components/text-input | resources/views/components/text-input.blade.php |
+| dashboard | resources/views/dashboard.blade.php |
+| feedback/create | resources/views/feedback/create.blade.php |
+| feedback/index | resources/views/feedback/index.blade.php |
+| layouts/app | resources/views/layouts/app.blade.php |
+| layouts/footer | resources/views/layouts/footer.blade.php |
+| layouts/guest | resources/views/layouts/guest.blade.php |
+| layouts/navigation | resources/views/layouts/navigation.blade.php |
+| profile/edit | resources/views/profile/edit.blade.php |
+| profile/partials/delete-user-form | resources/views/profile/partials/delete-user-form.blade.php |
+| profile/partials/update-password-form | resources/views/profile/partials/update-password-form.blade.php |
+| profile/partials/update-profile-information-form | resources/views/profile/partials/update-profile-information-form.blade.php |
+| requests/_form | resources/views/requests/_form.blade.php |
+| requests/create | resources/views/requests/create.blade.php |
+| requests/edit | resources/views/requests/edit.blade.php |
+| requests/index | resources/views/requests/index.blade.php |
+| welcome | resources/views/welcome.blade.php |
